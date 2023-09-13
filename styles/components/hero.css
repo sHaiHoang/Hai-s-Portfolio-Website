@@ -13,7 +13,7 @@
     overflow: hidden;
     white-space: nowrap;
     border-right: 4px solid var(--clr-charc);
-    width: 14rem;
+    width: 17rem;
     animation: 
         typing 2.5s, 
         cursor 1s linear infinite alternate;
@@ -54,7 +54,7 @@
     
     .hero__title {
         font-size: var(--size-3xl);
-        width: 25rem;
+        width: 17.5rem;
     }
     
     .hero__subtitle {
